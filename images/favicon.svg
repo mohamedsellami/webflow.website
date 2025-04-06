@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>New Project</title>
+	<defs>
+		<image width="48" height="48" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTAuMDAwMTIyMDcgLTMuMDUxNzZlLTA1SDkuMDAwMTJDMTIuODY2MSAtMy4wNTE3NmUtMDUgMTYuMDAwMSAzLjEzMzk4IDE2LjAwMDEgNi45OTk5N1YxNkg3LjAwMDEyQzMuMTM0MTMgMTYgMC4wMDAxMjIwNyAxMi44NjYgMC4wMDAxMjIwNyA4Ljk5OTk3Vi0zLjA1MTc2ZS0wNVoiIGZpbGw9IiNFQTZGMzIiLz4KPHBhdGggZD0iTTguMDAwMTIgMS40OTk5N0w5LjQ1OTQ2IDUuOTkxMzZIMTQuMTgyTDEwLjM2MTQgOC43NjcxOUwxMS44MjA3IDEzLjI1ODZMOC4wMDAxMiAxMC40ODI3TDQuMTc5NTIgMTMuMjU4Nkw1LjYzODg2IDguNzY3MTlMMS44MTgyNSA1Ljk5MTM2SDYuNTQwNzhMOC4wMDAxMiAxLjQ5OTk3WiIgZmlsbD0iI0YxRTREMCIvPgo8L3N2Zz4K"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Plotline.Favacon2" href="#img1" transform="matrix(.667,0,0,.667,0,0)"/>
+</svg>
